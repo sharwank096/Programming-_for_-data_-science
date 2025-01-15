@@ -50,9 +50,3 @@ The dataset contains the following key features:
 ## Results
 - **Insights**: The analysis revealed patterns and anomalies in pollution levels across various cities and states.
 - **Statistical Findings**: The T-test and Chi-square test provided insights into the statistical significance of differences in pollutant levels and relationships between variables.
-
-## Contributors
-- **Your Name**: Data analysis, visualization, and report writing.
-
-## License
-This project is licensed under the MIT License.
